@@ -56,5 +56,5 @@ A pickle file called `optf_1epoch.pkl` will be generated in the same result fold
 
 ## Copyright:
 
- Copyright (2019) [Yatao (An) Bian <yatao.bian@gmail.com> | bianyatao.com].  
+ Copyright (2019) [Yatao (An) Bian <yatao.bian@gmail.com> | yataobian.com].  
  Please cite the above paper if you use this code in your work.

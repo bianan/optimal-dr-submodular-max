@@ -1,6 +1,6 @@
 """
 Yatao (An) Bian <yatao.bian@gmail.com>
-bianyatao.com
+yataobian.com
 May 13, 2019.
 """
 import numpy as np
@@ -166,7 +166,7 @@ def run_algorithms():
                 + subfix
 
             pickle.dump([results, expconfig], open(file_name +'.pkl', 'wb'))
-    
+
 
             # ------- do the plot ---------
             if FLAGS.problem_id == 1:
